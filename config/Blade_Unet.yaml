@@ -1,0 +1,21 @@
+data:
+  seed: 0
+  heeds_path: 'C:/Users/86176/Desktop/python/AICFD/heeds/heeds_Study_1/HEEDS_0'
+  batch_size: 8
+  num_workers: 8
+  train_size: 0.7
+
+model:
+  model_type: 'UNet'
+  expo: 6
+  dropout: 0.2
+
+train:
+  num_epochs: 100
+  base_lr: 0.001
+  weight_decay: 0.0005
+  scheduler_gamma: 0.5
+  save_step: 20
+
+log:
+  base_dir: 'C:/Users/86176/Desktop/python/AICFD/log/'
