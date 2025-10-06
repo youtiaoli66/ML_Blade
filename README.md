@@ -1,3 +1,4 @@
+The computed CFD data files are quite large, so they are not included here. However, you can easily generate them yourself using the geometric models provided in the UG folder.
 This is my first attempt to combine Computational Fluid Dynamics (CFD) with Machine Learning, focusing on a 2D flow field simulation of a tablet press impeller.
 Due to my limited experience, this attempt may deviate from traditional fluid dynamics principles and leans more toward an image-processing-based approach. If there are any misunderstandings or methodological issues, I sincerely welcome feedback, critiques, and discussions from experienced practitioners.
 
